@@ -1,5 +1,6 @@
 # Managershop
 The project for manager shop fashion.
+
 	**Three tree:**
 
   	1. Admin
@@ -13,7 +14,8 @@ The project for manager shop fashion.
 ## Client side:
 1. Jade template
 2. Sass
-3. Javascript( Jquery,Boostrapjs, Angularjs)
+3. Javascript( Jquery, Angularjs)
+4. Angular Material
 
 ## Workfollow
 1. Gulp
